@@ -18,7 +18,7 @@
         "AcceptsFeedback": false,
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "IconUrl": "https://raw.githubusercontent.com/juiposa/bab/images/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/juiposa/bab/refs/heads/main/images/icon.png",
         "DownloadLinkInstall": "https://github.com/juiposa/bab/raw/refs/heads/main/plugin/v1.0.0.zip",
         "DownloadLinkTesting": "https://github.com/juiposa/bab/raw/refs/heads/main/plugin/v1.0.0.zip",
         "DownloadLinkUpdate": "https://github.com/juiposa/bab/raw/refs/heads/main/plugin/v1.0.0.zip"
