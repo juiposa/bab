@@ -19,8 +19,8 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "IconUrl": "https://raw.githubusercontent.com/juiposa/bab/images/icon.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/juiposa/bab/plugin/v1.0.0.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/juiposa/bab/plugin/v1.0.0.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/juiposa/bab/plugin/v1.0.0.zip"
+        "DownloadLinkInstall": "https://github.com/juiposa/bab/raw/refs/heads/main/plugin/v1.0.0.zip",
+        "DownloadLinkTesting": "https://github.com/juiposa/bab/raw/refs/heads/main/plugin/v1.0.0.zip",
+        "DownloadLinkUpdate": "https://github.com/juiposa/bab/raw/refs/heads/main/plugin/v1.0.0.zip"
     }
 ]
