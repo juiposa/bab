@@ -1,0 +1,26 @@
+[
+    {
+        "Author": "juiposa",
+        "Name": "Big Assed Bug",
+        "InternalName": "BigAssedBug",
+        "AssemblyVersion": "1.0.9",
+        "Description": "The bug with the biggest ass.",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "customization"
+        ],
+        "DalamudApiLevel": 13,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "Punchline": ":juiDab:",
+        "AcceptsFeedback": false,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "IconUrl": "https://raw.githubusercontent.com/juiposa/bab/refs/heads/main/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/juiposa/bab/raw/refs/heads/main/plugin/v1.0.9.zip",
+        "DownloadLinkTesting": "https://github.com/juiposa/bab/raw/refs/heads/main/plugin/v1.0.9.zip",
+        "DownloadLinkUpdate": "https://github.com/juiposa/bab/raw/refs/heads/main/plugin/v1.0.9.zip"
+    }
+]
