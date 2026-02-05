@@ -3,7 +3,7 @@
         "Author": "juiposa",
         "Name": "Big Assed Bug",
         "InternalName": "BigAssedBug",
-        "AssemblyVersion": "1.0.14",
+        "AssemblyVersion": "1.0.15",
         "Description": "The bug with the biggest ass.",
         "ApplicableVersion": "any",
         "Tags": [
@@ -19,8 +19,8 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "IconUrl": "https://raw.githubusercontent.com/juiposa/bab/refs/heads/main/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/juiposa/bab/raw/refs/heads/main/plugin/v1.0.14.zip",
-        "DownloadLinkTesting": "https://github.com/juiposa/bab/raw/refs/heads/main/plugin/v1.0.14.zip",
-        "DownloadLinkUpdate": "https://github.com/juiposa/bab/raw/refs/heads/main/plugin/v1.0.14.zip"
+        "DownloadLinkInstall": "https://github.com/juiposa/bab/raw/refs/heads/main/plugin/v1.0.15.zip",
+        "DownloadLinkTesting": "https://github.com/juiposa/bab/raw/refs/heads/main/plugin/v1.0.15.zip",
+        "DownloadLinkUpdate": "https://github.com/juiposa/bab/raw/refs/heads/main/plugin/v1.0.15.zip"
     }
 ]
